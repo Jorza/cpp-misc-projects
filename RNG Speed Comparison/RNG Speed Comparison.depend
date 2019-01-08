@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1500273665 source:c:\users\joryb\onedrive - monash university\old computer docs\c_and_c++_projects\random number generator\rng speed comparison\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
